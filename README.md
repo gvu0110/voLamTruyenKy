@@ -49,10 +49,10 @@
  - Các lựa chọn khác trong GM:
     - Vòng sáng danh hiệu: Có 12 loại danh hiệu + vòng sáng lung linh là lên luôn
     - Shop: Bạn có thể mua máu, mana, thuốc giải độc tại đây hoặc đến tạp hóa các thành.
-    - Chọn màu PK: Chọn các màu khác nhau để chia team PK, hoặc yolo "Một mình tao chấp heesttttt"
+    - Chọn màu PK: Chọn các màu khác nhau để chia team PK, hoặc yolo "Một mình tao chấp hếtttttt"
     - Cộng Điểm Tiềm Năng nhanh: Có hướng dẫn phía dưới.
     - Dịch chuyển nhanh: Dịch chuyển nhanh đến các địa điểm đặc biệt
 ## **Trang bị ngũ hành:**
  - Ok đến phần trang bị, chúng ta tạm thời mặc đồ ngũ hành xanh dương vì GM chỉ cho mình đồ xanh dương thôi các bạn ạ, nhân vật của bạn hệ nào thì mặc đồ theo hướng dẫn bên dưới thì sẽ kích được dòng thuộc tính ẩn của trang bị:
-    - **Hệ kim:**{: .gitlab-orange}
+    - **Hệ kim:{: .gitlab-orange}**
       - Nón(mũ) + Vũ Khí: Kim
