@@ -121,7 +121,9 @@ _Bạn nên cất hết item hiện có trong F4 vào rương chứa đồ để
 ![morongruong2](/images/morongruong2.png)*Có thêm một rương mở rộng, tha hồ mà trữ đồ qua mùa COVID-19*
 
 ## **Skill-key setup**
- - Góc bên phải phía dưới cùng của tab game có 2 hình bao tay, bên trái tượng trưng cho chuột trái, bên phải tượng trưng cho chuột phải. Click vào một trong hai sẽ hiện lên các kỹ năng mà bạn đã tăng điểm trong Bảng Kỹ Năng F5, bạn có thể gán phím vào skill để tiện dùng trong lúc PK hay săn boss. Các phím cos thể gán: Q-W-E-A-S-D-Z-X-C.
+ - Góc bên phải phía dưới cùng của tab game có 2 hình bao tay, bên trái tượng trưng cho chuột trái, bên phải tượng trưng cho chuột phải.
+ - Click vào một trong hai sẽ hiện lên các kỹ năng mà bạn đã tăng điểm trong Bảng Kỹ Năng F5, bạn có thể gán phím vào skill để tiện dùng trong lúc PK hay săn boss.
+ - Các phím có thể gán: Q-W-E-A-S-D-Z-X-C. Bạn trỏ chuột vào skill đó và gán phím muốn gán.
 
 ![skillleft](/images/skillleft.png)*Các skill bên chuột trái thường sẽ là các skill tấn công.*
 
