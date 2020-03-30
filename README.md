@@ -102,3 +102,31 @@ _Bạn nên cất hết item hiện có trong F4 vào rương chứa đồ để
 
 ## **Điểm Tiềm Năng và Điểm Kỹ Năng:**
 **Note:** Bạn tham khảo cách cộng điểm trước để không bị yếu sinh lí.
+
+ - Điểm Tiềm Năng và Điểm Kĩ Năng của từng phái thì Okalala tham khảo [trang này](http://home.volamthienha.com/chuyen-muc/cam-nang), mọi người có thể tham khảo các trang khác để min-max sức mạnh nhé.
+
+ - Bạn có 999 Điểm Tiềm Năng, chức năng Cộng Điểm Tiềm Năng Nhanh của GM khá hữu ích, bạn làm theo hình bên dưới và chọn loại điểm và số lượng mà mình muốn nhé!
+
+![congdiemtiemnang1](/images/congdiemtiemnang1.png)*Chọn chức năng cộng điểm nhanh*
+
+![congdiemtiemnang2](/images/congdiemtiemnang2.png)*Chọn loại điểm tiềm năng muốn cộng*
+
+![congdiemtiemnang3](/images/congdiemtiemnang3.png)*Chọn số lượng bạn muốn cộng*
+
+## **Mở rộng rương chứa đồ**
+ - Bạn cầm theo 2KNB, phi tới NPC Thẩm Cửu ở bên ngoài huyện để mở rộng thêm một rương chứa đồ.
+
+![morongruong](/images/morongruong.png)*Ném 2KNB vào mặt nó để nó đi làm rộng rương đồ cho mình*
+
+![morongruong2](/images/morongruong2.png)*Có thêm một rương mở rộng, tha hồ mà trữ đồ qua mùa COVID-19*
+
+## **Skill-key setup**
+ - Góc bên phải phía dưới cùng của tab game có 2 hình bao tay, bên trái tượng trưng cho chuột trái, bên phải tượng trưng cho chuột phải. Click vào một trong hai sẽ hiện lên các kỹ năng mà bạn đã tăng điểm trong Bảng Kỹ Năng F5, bạn có thể gán phím vào skill để tiện dùng trong lúc PK hay săn boss. Các phím cos thể gán: Q-W-E-A-S-D-Z-X-C.
+
+![skillleft](/images/skillleft.png)*Các skill bên chuột trái thường sẽ là các skill tấn công.*
+
+![skillright](/images/skillright.png)*Các skill bên chuột phải thường sẽ là các skill hỗ trợ hoặc buff.*
+
+**Note:** Sẽ có các skill giống nhau ở hai bên chuột để tùy vào thói quen hay sự thuận tiện của từng người chơi khác nhau.
+
+**Chúc anh chị em bà con cô bác PK và săn boss san bằng server**
