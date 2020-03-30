@@ -46,3 +46,13 @@
 ![nhapphai](/images/nhapphai.png)*Đối thoại với Chưởng môn của phái mà bạn muốn gia nhập*
 
  - Sau khi vào phái, bạn dùng GM để Nhận Skill, bạn sẽ có các skill 90 120 150 powerful để săn boss và pk san bằng server. Đồng thời bạn cũng có 199 Điểm Kỹ Năng để tăng sức mạnh các kỹ năng bạn muốn dùng.
+ - Các lựa chọn khác trong GM:
+    - Vòng sáng danh hiệu: Có 12 loại danh hiệu + vòng sáng lung linh là lên luôn
+    - Shop: Bạn có thể mua máu, mana, thuốc giải độc tại đây hoặc đến tạp hóa các thành.
+    - Chọn màu PK: Chọn các màu khác nhau để chia team PK, hoặc yolo "Một mình tao chấp heesttttt"
+    - Cộng Điểm Tiềm Năng nhanh: Có hướng dẫn phía dưới.
+    - Dịch chuyển nhanh: Dịch chuyển nhanh đến các địa điểm đặc biệt
+## **Trang bị ngũ hành:**
+ - Ok đến phần trang bị, chúng ta tạm thời mặc đồ ngũ hành xanh dương vì GM chỉ cho mình đồ xanh dương thôi các bạn ạ, nhân vật của bạn hệ nào thì mặc đồ theo hướng dẫn bên dưới thì sẽ kích được dòng thuộc tính ẩn của trang bị:
+    - **Hệ kim:**{: .gitlab-orange}
+      - Nón(mũ) + Vũ Khí: Kim
