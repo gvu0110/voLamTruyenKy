@@ -54,7 +54,33 @@
     - Dịch chuyển nhanh: Dịch chuyển nhanh đến các địa điểm đặc biệt
 ## **Trang bị ngũ hành:**
  - Ok đến phần trang bị, chúng ta tạm thời mặc đồ ngũ hành xanh dương vì GM chỉ cho mình đồ xanh dương thôi các bạn ạ, nhân vật của bạn hệ nào thì mặc đồ theo hướng dẫn bên dưới thì sẽ kích được dòng thuộc tính ẩn của trang bị:
-    <div class="text-yellow">
-    - **Hệ kim:**
-    </div>
-      - Nón(mũ) + Vũ Khí: Kim
+    - **Hệ Kim:**
+      - Nón(mũ) + Vũ Khí: KIM
+      - Dây chuyền + Áo: THỔ
+      - Thắt lưng + Nhẫn dưới: HỎA
+      - Bao tay + Ngọc bội: MỘC
+      - Giày + Nhẫn trên: THỦY
+    - **Hệ Mộc:**
+      - Nón (mũ) + Vũ Khí : MỘC
+      - Dây chuyền + Áo : THỦY
+      - Thắt Lưng + Nhẫn Dưới : KIM
+      - Bao tay + Ngọc bội : THỔ
+      - Giày + Nhẫn Trên : HỎA
+    - **Hệ Thủy:**
+      - Nón (mũ) + Vũ Khí : THỦY
+      - Dây chuyền + Áo : KIM
+      - Thắt Lưng + Nhẫn Dưới : THỔ
+      - Bao tay + Ngọc bội : HỎA
+      - Giày + Nhẫn Trên : MỘC
+    - **Hệ Hỏa:**
+      - Nón (mũ) + Vũ Khí : HỎA
+      - Dây chuyền + Áo : MỘC
+      - Thắt Lưng + Nhẫn Dưới : THỦY
+      - Bao tay + Ngọc bội : KIM
+      - Giày + Nhẫn Trên : THỔ
+    - **Hệ Thổ:**
+      - Nón (mũ) + Vũ Khí : THỔ
+      - Dây chuyền + Áo : HỎA
+      - Thắt Lưng + Nhẫn Dưới : MỘC
+      - Bao tay + Ngọc bội : THỦY
+      - Giày + Nhẫn Trên : KIM
