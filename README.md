@@ -54,5 +54,7 @@
     - Dịch chuyển nhanh: Dịch chuyển nhanh đến các địa điểm đặc biệt
 ## **Trang bị ngũ hành:**
  - Ok đến phần trang bị, chúng ta tạm thời mặc đồ ngũ hành xanh dương vì GM chỉ cho mình đồ xanh dương thôi các bạn ạ, nhân vật của bạn hệ nào thì mặc đồ theo hướng dẫn bên dưới thì sẽ kích được dòng thuộc tính ẩn của trang bị:
-    - **Hệ kim:{: .gitlab-orange}**
+    <div class="text-yellow">
+    - **Hệ kim:**
+    </div>
       - Nón(mũ) + Vũ Khí: Kim
