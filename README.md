@@ -18,4 +18,4 @@
  - Phím Tab: Bật/tắt/mở rộng mini map
  
 ## **Hướng dẫn tạo nhân vật theo hệ phái:**
-(hevaphai.png)*Chọn phái mà bạn muốn gia nhập*
+(/c/Users/tuans/OneDrive/Desktop/VLTK/hevaphai.png)*Chọn phái mà bạn muốn gia nhập*
