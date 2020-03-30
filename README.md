@@ -84,3 +84,21 @@
       - Thắt Lưng + Nhẫn Dưới : MỘC
       - Bao tay + Ngọc bội : THỦY
       - Giày + Nhẫn Trên : KIM
+ - Hướng dẫn nhận trang bị:
+
+_Bạn nên cất hết item hiện có trong F4 vào rương chứa đồ để dễ nhận trang bị._
+
+    Bạn mở GM và chọn Nhận Trang bị-> Chọn Vũ Khí/ Y phục/ Hài/ Yêu đái/ Khôi Mão/ Hộ Uyển -> chọn hệ của trang bị gồm Kim/ Mộc/ Thủy/ Hỏa/ Thổ.
+
+**Note:** Khi chọn trang bị xong, bạn sẽ nhận được rất nhiều thứ. Ví dụ bạn chọn Vũ Khí, bạn sẽ nhận được, Chùy, Đao, Tiêu... Bạn nên chọn loại tốt nhất và phù hợp nhất với hệ phái của mình.
+
+![item1](/images/item1.png)*Nhận trang bị*
+
+![item2](/images/item2.png)*Nhận loại trang bị*
+
+![item3](/images/item3.png)*Nhận hệ của trang bị đó*
+
+ - Sau khi nhận và chọn ra trang bị phù hợp và ưng nhất thì bạn nên chú ý là mỗi trang bị có yêu cầu một chỉ số Tiềm Năng nhất định để có thể sử dụng Sức Mạnh/ Thân Pháp/ Sinh Khí/ Nội Công.
+
+## **Điểm Tiềm Năng và Điểm Kỹ Năng:**
+**Note:** Bạn tham khảo cách cộng điểm trước để không bị yếu sinh lí.
