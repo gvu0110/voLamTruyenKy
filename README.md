@@ -1,6 +1,6 @@
 # VoLamTruyenKy
 
-##**Hotkeys:**
+## **Hotkeys:**
  - F1: Cửa sổ hỗ trợ
  - F2: Cửa sổ tùy chọn
  - F3: Cửa sổ Trang bị và Thuộc tính
