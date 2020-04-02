@@ -86,7 +86,7 @@ Tiếp đến bạn di chuyển đến chưởng môn các phái đang xếp hà
 
 *Đối thoại với Chưởng môn của phái mà bạn muốn gia nhập*
 
- - Sau khi vào phái, bạn dùng GM để Nhận Skill, bạn sẽ có các skill 90 120 150 powerful để săn boss và pk san bằng server. Đồng thời bạn cũng có 199 Điểm Kỹ Năng để tăng sức mạnh các kỹ năng bạn muốn dùng.
+ - Sau khi vào phái, bạn dùng GM để **Nhận Skill**, bạn sẽ có các skill 90 120 150 powerful để săn boss và PK san bằng server. Đồng thời bạn cũng có 199 Điểm Kỹ Năng để tăng sức mạnh các kỹ năng bạn muốn dùng.
 
 ### Tăng điểm tiềm năng
 **Note:** Bạn tham khảo cách cộng điểm trước để không bị yếu sinh lí.
