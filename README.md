@@ -174,7 +174,7 @@ Vì game khá lâu đời nên có nhiều file cũ. Bạn vui lòng tắt các 
 - Bước 1: Chuột phải vào file `Game.exe`, chọn `Properties`
 - Bước 2: Chọn tab `Compatibility`, chọn `Reduced color mode`, chọn `16-bit (65536) color`, chọn `OK` để hoàn tất
 - Bước 3: Chạy lại file `Game.exe` để vào game nhé!
-![16-bit](/images/16-bit.png)
+![](/images/16-bit.png)
 
 **3. Lỗi văng cửa sổ khi vào trò chơi hoặc treo cửa sổ khi đăng nhập.**
 - Bước 1: Chuột phải vào biểu tượng `This PC`, chọn `Properties`
@@ -183,4 +183,4 @@ Vì game khá lâu đời nên có nhiều file cũ. Bạn vui lòng tắt các 
 - Bước 4: Chọn tab `Data Execution Prevention`, chọn nút `Turn on DEP for all programs and services except those I select:`, rồi bấm vào nút `Add...`
 - Bước 5: Trỏ đường dẫn vào file `Game.exe`, chọn `OK` để hoàn tất
 - Bước 6: Chạy lại file `Game.exe` để vào game nhé!
-![dep](/images/dep.png)
+![](/images/dep.png =250x)
