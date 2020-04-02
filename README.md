@@ -16,6 +16,13 @@
 - [Các lỗi cài đặt thường gặp](#các-lỗi-cài-đặt-thường-gặp)
 
 ## Hướng dẫn cài đặt game trên Windows
+Các bạn tải game ở link sau:
+
+[https://drive.google.com/file/d/1gSZUSwO560rMHUm83JOxopcDu-M_ZTzB/view?usp=sharing](https://drive.google.com/file/d/1gSZUSwO560rMHUm83JOxopcDu-M_ZTzB/view?usp=sharing)
+
+Sau khi tải xong, các bạn giải nén và chạy file `Game.exe` là chơi được game. Không cần cài đặt
+
+Nếu có lỗi xảy ra các bạn vui lòng xem mục [Các lỗi cài đặt thường gặp](#các-lỗi-cài-đặt-thường-gặp)
 
 ## Hướng dẫn cài đặt game trên MacOS
 (updating)
@@ -168,7 +175,7 @@ Bạn cầm theo 2 KNB, phi tới NPC Thẩm Cửu ở bên ngoài huyện để
 
 ## Các lỗi cài đặt thường gặp
 **1. Lỗi anti-virus**
-Vì game khá lâu đời nên có nhiều file cũ. Bạn vui lòng tắt các chương trình anti-virus để chơi game nhé!
+- Vì game khá lâu đời nên có nhiều file cũ. Bạn vui lòng tắt các chương trình anti-virus để chơi game nhé!
 
 **2. Lỗi yêu cầu chuyễn sang chế độ 16-bit color.**
 - Bước 1: Chuột phải vào file `Game.exe`, chọn `Properties`
