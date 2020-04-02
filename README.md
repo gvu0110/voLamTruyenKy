@@ -183,4 +183,4 @@ Vì game khá lâu đời nên có nhiều file cũ. Bạn vui lòng tắt các 
 - Bước 4: Chọn tab `Data Execution Prevention`, chọn nút `Turn on DEP for all programs and services except those I select:`, rồi bấm vào nút `Add...`
 - Bước 5: Trỏ đường dẫn vào file `Game.exe`, chọn `OK` để hoàn tất
 - Bước 6: Chạy lại file `Game.exe` để vào game nhé!
-![](/images/dep.png =250x)
+![](/images/dep.png)
