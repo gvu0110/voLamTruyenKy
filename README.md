@@ -95,7 +95,7 @@ Sau khi vào phái, bạn dùng GM để **Nhận Skill**, bạn sẽ có các s
 
  - Điểm tiềm năng và kỹ năng của từng phái thì Okalala tham khảo [trang này](http://volambacmy.com/), mọi người có thể tham khảo các trang khác để min-max sức mạnh nhé.
 
- - Chức năng *Cộng Điểm Tiềm Năng Nhanh* của GM khá hữu ích, bạn làm theo hình bên dưới để chọn loại điểm và số lượng mà mình muốn nhé!
+ - Chức năng **Cộng Điểm Tiềm Năng Nhanh** của GM khá hữu ích, bạn làm theo hình bên dưới để chọn loại điểm và số lượng mà mình muốn nhé!
 
 ![congdiemtiemnang1](/images/congdiemtiemnang1.png)
 
@@ -134,8 +134,7 @@ Sau khi nhận trang bị phù hợp và ưng nhất thì bạn nên mặc vào 
 ## Hướng dẫn khác
 Các lựa chọn khác trong GM:
   - Shop: Bạn có thể mua máu, mana, thuốc giải độc tại đây hoặc đến tạp hóa các thành.
-  - Chọn màu PK: Chọn các màu khác nhau để chia team PK, hoặc yolo "Một mình tao chấp hếtttttt"
-  - Cộng Điểm Tiềm Năng nhanh: Có hướng dẫn phía dưới.
+  - Chọn màu PK: Chọn các màu khác nhau để chia team PK, hoặc yolo "Một mình tao chấp hếtttttt".
 
 ### Mở rộng rương chứa đồ
 Bạn cầm theo 2 KNB, phi tới NPC Thẩm Cửu ở bên ngoài huyện để mở rộng thêm một rương chứa đồ.
