@@ -119,31 +119,21 @@ Ok đến phần trang bị, chúng ta tạm thời mặc đồ ngũ hành xanh 
 
 _Bạn nên cất hết item hiện có trong F4 vào rương chứa đồ để dễ nhận trang bị._
 
-Bạn mở GM và chọn Nhận Trang bị-> Chọn Vũ Khí/ Y phục/ Hài/ Yêu đái/ Khôi Mão/ Hộ Uyển -> chọn hệ của trang bị gồm Kim/ Mộc/ Thủy/ Hỏa/ Thổ.
+Bạn mở GM và chọn **Nhận Trang bị**.
 
-**Note:** Khi chọn trang bị xong, bạn sẽ nhận được rất nhiều thứ. Ví dụ bạn chọn Vũ Khí, bạn sẽ nhận được, Chùy, Đao, Tiêu... Bạn nên chọn loại tốt nhất và phù hợp nhất với hệ phái của mình.
+**Note:** Các trang bị xanh được cấp theo đúng ngũ hành của phái bạn đang theo.
 
 ![item1](/images/item1.png)
 
 *Nhận trang bị*
 
-![item2](/images/item2.png)
-
-*Nhận loại trang bị*
-
-![item3](/images/item3.png)
-
-*Nhận hệ của trang bị đó*
-
-Sau khi nhận và chọn ra trang bị phù hợp và ưng nhất thì bạn nên mặc vào người nhé. Đừng trần truồng cưỡi ngựa chạy lông nhông 🤦‍♂️
+Sau khi nhận trang bị phù hợp và ưng nhất thì bạn nên mặc vào người nhé. Đừng trần truồng cưỡi ngựa chạy lông nhông 🤦‍♂️
 
 ## Hướng dẫn khác
 Các lựa chọn khác trong GM:
-  - Vòng sáng danh hiệu: Có 12 loại danh hiệu + vòng sáng lung linh là lên luôn
   - Shop: Bạn có thể mua máu, mana, thuốc giải độc tại đây hoặc đến tạp hóa các thành.
   - Chọn màu PK: Chọn các màu khác nhau để chia team PK, hoặc yolo "Một mình tao chấp hếtttttt"
   - Cộng Điểm Tiềm Năng nhanh: Có hướng dẫn phía dưới.
-  - Dịch chuyển nhanh: Dịch chuyển nhanh đến các địa điểm đặc biệt
 
 ### Mở rộng rương chứa đồ
 Bạn cầm theo 2 KNB, phi tới NPC Thẩm Cửu ở bên ngoài huyện để mở rộng thêm một rương chứa đồ.
@@ -159,7 +149,7 @@ Bạn cầm theo 2 KNB, phi tới NPC Thẩm Cửu ở bên ngoài huyện để
 ### Skill setup
  - Góc bên phải phía dưới cùng của tab game có 2 hình bao tay, bên trái tượng trưng cho chuột trái, bên phải tượng trưng cho chuột phải.
  - Click vào một trong hai sẽ hiện lên các kỹ năng mà bạn đã tăng điểm trong Bảng Kỹ Năng F5, bạn có thể gán phím vào skill để tiện dùng trong lúc PK hay săn boss.
- - Các phím có thể gán: Q-W-E-A-S-D-Z-X-C. Bạn trỏ chuột vào skill đó và gán phím muốn gán.
+ - Các phím có thể gán: Q-W-E-A-S-D-Z-X-C. Bạn trỏ chuột vào skill đó và chọn phím muốn gán.
 
 ![skillleft](/images/skillleft.png)
 
