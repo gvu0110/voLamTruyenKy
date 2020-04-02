@@ -4,7 +4,7 @@
 - [Hướng dẫn cài đặt game trên MacOS](#hướng-dẫn-cài-đặt-game-trên-macos)
 - [Hướng dẫn tạo nhân vật](#hướng-dẫn-tạo-nhân-vật)
 - [Giao diện game và phím tắt](#giao-diện-game-và-phím-tắt)
-- [Hướng dẫn chơi game](#hướng-dẫn-chơi-game)
+- [Hướng dẫn cho người mới vào game](#hướng-dẫn-cho-người-mới-vào-game)
   * [Nhận level 200](#Nhận-level-200)
   * [Nhận tiền và ngựa](#nhận-tiền-và-ngựa)
   * [Ra nhập môn phái và nhận kỹ năng môn phái](#ra-nhập-môn-phái-và-nhận-kỹ-năng-môn-phái)
@@ -44,7 +44,7 @@ Bạn chọn nơi bắt đầu là **Ba Lăng Huyện** để dễ dàng làm th
 
 *Hotkeys trong game*
 
-## Hướng dẫn chơi game
+## Hướng dẫn cho người mới vào game
 Bạn đi đến NPC Hỗ Trợ Tân Thủ để nhận Lệnh Bài Tân Thủ aka GameMaster, cái này cho bạn hết không phải nạp game <3:
 
 ![httt1](/images/httt1.png)
