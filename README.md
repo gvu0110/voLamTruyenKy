@@ -76,7 +76,7 @@ Bạn chọn **Cộng level** để đạt level 200
 
 ### Nhận tiền và ngựa
 Đầu tiên bạn nên dùng lệnh bài để **Nhận tiền + Ngựa**
-  - Bạn sẽ có ngay 5 Kim Nguyên Bảo (KNB) và 500 Tiền đồng.
+  - Bạn sẽ có ngay 5 Kim Nguyên Bảo (KNB) và 200 Vạn.
   - Bạn sẽ nhận ngay một trong những chiến mã hot nhất phi như gió mà không kịp ngó nhìn ai.
 
 ### Nhận kỹ năng môn phái và tăng điểm kỹ năng
