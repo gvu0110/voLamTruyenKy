@@ -7,8 +7,8 @@
 - [Hướng dẫn chơi game](#hướng-dẫn-chơi-game)
   * [Nhận level 200](#Nhận-level-200)
   * [Nhận tiền và ngựa](#nhận-tiền-và-ngựa)
-  * [Nhận kỹ năng môn phái và tăng điểm kỹ năng](#nhận-kỹ-năng-môn-phái-và-tăng-điểm-kỹ-năng)
-  * [Tăng điểm tiềm năng](#tăng-điểm-tiềm-năng)
+  * [Ra nhập môn phái và nhận kỹ năng môn phái](#ra-nhập-môn-phái-và-nhận-kỹ-năng-môn-phái)
+  * [Tăng điểm tiềm năng và điểm kỹ năng](#tăng-điểm-tiềm-năng-và-điểm-kỹ-năng)
   * [Nhận trang bị ngũ hành](#nhận-trang-bị-ngũ-hành)
 - [Hướng dẫn khác](#hướng-dẫn-khác)
   * [Mở rộng rương chứa đồ](#mở-rộng-rương-chứa-đồ)
@@ -79,21 +79,23 @@ Bạn chọn **Cộng level** để đạt level 200
   - Bạn sẽ có ngay 5 Kim Nguyên Bảo (KNB) và 200 Vạn.
   - Bạn sẽ nhận ngay một trong những chiến mã hot nhất phi như gió mà không kịp ngó nhìn ai.
 
-### Nhận kỹ năng môn phái và tăng điểm kỹ năng
+### Ra nhập môn phái và nhận kỹ năng môn phái
 Tiếp đến bạn di chuyển đến chưởng môn các phái đang xếp hàng ngay ngắn chờ bạn để xin gia nhập phái.
 
 ![nhapphai](/images/nhapphai.png)
 
 *Đối thoại với Chưởng môn của phái mà bạn muốn gia nhập*
 
- - Sau khi vào phái, bạn dùng GM để **Nhận Skill**, bạn sẽ có các skill 90 120 150 powerful để săn boss và PK san bằng server. Đồng thời bạn cũng có 199 Điểm Kỹ Năng để tăng sức mạnh các kỹ năng bạn muốn dùng.
+Sau khi vào phái, bạn dùng GM để **Nhận Skill**, bạn sẽ có các skill 90 120 150 powerful để săn boss và PK san bằng server.
 
-### Tăng điểm tiềm năng
+### Tăng điểm tiềm năng và điểm kỹ năng
 **Note:** Bạn tham khảo cách cộng điểm trước để không bị yếu sinh lí.
 
- - Điểm Tiềm Năng và Điểm Kĩ Năng của từng phái thì Okalala tham khảo [trang này](http://volambacmy.com/), mọi người có thể tham khảo các trang khác để min-max sức mạnh nhé.
+ - Hiện tại bạn sẽ có 199 điểm kỹ năng và 999 điểm tiềm năng tương ứng với cấp độ 200. 
 
- - Bạn có 999 Điểm Tiềm Năng, chức năng Cộng Điểm Tiềm Năng Nhanh của GM khá hữu ích, bạn làm theo hình bên dưới và chọn loại điểm và số lượng mà mình muốn nhé!
+ - Điểm tiềm năng và kỹ năng của từng phái thì Okalala tham khảo [trang này](http://volambacmy.com/), mọi người có thể tham khảo các trang khác để min-max sức mạnh nhé.
+
+ - Chức năng *Cộng Điểm Tiềm Năng Nhanh* của GM khá hữu ích, bạn làm theo hình bên dưới để chọn loại điểm và số lượng mà mình muốn nhé!
 
 ![congdiemtiemnang1](/images/congdiemtiemnang1.png)
 
