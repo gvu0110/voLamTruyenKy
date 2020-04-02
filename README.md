@@ -84,7 +84,7 @@ Tiếp đến bạn di chuyển đến chưởng môn các phái đang xếp hà
 ### Tăng điểm tiềm năng
 **Note:** Bạn tham khảo cách cộng điểm trước để không bị yếu sinh lí.
 
- - Điểm Tiềm Năng và Điểm Kĩ Năng của từng phái thì Okalala tham khảo [trang này](http://volamtruyenky.ca.s3-website.ca-central-1.amazonaws.com/), mọi người có thể tham khảo các trang khác để min-max sức mạnh nhé.
+ - Điểm Tiềm Năng và Điểm Kĩ Năng của từng phái thì Okalala tham khảo [trang này](http://volambacmy.com/), mọi người có thể tham khảo các trang khác để min-max sức mạnh nhé.
 
  - Bạn có 999 Điểm Tiềm Năng, chức năng Cộng Điểm Tiềm Năng Nhanh của GM khá hữu ích, bạn làm theo hình bên dưới và chọn loại điểm và số lượng mà mình muốn nhé!
 
