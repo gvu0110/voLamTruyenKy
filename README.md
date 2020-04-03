@@ -16,6 +16,7 @@
   * [Sự kiện vượt ải](#sự-kiện-vượt-ải)
   * [Sự kiện liên đấu](#sự-kiện-liên-đấu)
   * [PK Biện Kinh](#pk-biện-kinh)
+  * [Hoạt động phong trào](#hoat-dong-phong-trao)
 - [Hướng dẫn khác](#hướng-dẫn-khác)
   * [Mở rộng rương chứa đồ](#mở-rộng-rương-chứa-đồ)
   * [Skill setup](#skill-setup)
@@ -206,6 +207,17 @@ Kết quả liên đấu sẽ được lưu giữ và các danh hiệu cũng nh�
 Để tăng tính tương tác trong game giữa các đồng đạo, mỗi tối vào lúc **10pm giờ EST (Toronto)**, xin mời 500 anh em võ lâm tập trung ở cổng thành **Biện Kinh toạ độ 200/202** để phân tài cao thấp. 
 
 Sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
+
+### Hoạt động phong trào
+
+Do hướng đến tính giải trí lành mạnh, mỗi người dành vài tiếng buổi tối chơi game, vậy tại sao không cùng online và tham gia các sự kiện cùng nhau nhỉ?
+
+Chúng ta có thể tham gia chuỗi sự kiện cùng nhau mỗi tối như sau:
+ - **Liên đấu (9pm)**
+ - **Biện Kinh PK (10pm)**
+ - **Săn boss Hoàng Kim (10:30pm)**
+ - **Tống Kim hoặc vượt ải (11pm)**
+ - **Săn boss Hoàng Kim (11:30pm)**
 
 ## Hướng dẫn khác
 Các lựa chọn khác trong GM:
