@@ -10,6 +10,7 @@
   * [Ra nhập môn phái và nhận kỹ năng môn phái](#ra-nhập-môn-phái-và-nhận-kỹ-năng-môn-phái)
   * [Tăng điểm tiềm năng và điểm kỹ năng](#tăng-điểm-tiềm-năng-và-điểm-kỹ-năng)
   * [Nhận trang bị ngũ hành](#nhận-trang-bị-ngũ-hành)
+- [Tối nay chơi gì](#tối-nay-chơi-gì)  
 - [Hướng dẫn khác](#hướng-dẫn-khác)
   * [Mở rộng rương chứa đồ](#mở-rộng-rương-chứa-đồ)
   * [Skill setup](#skill-setup)
@@ -130,6 +131,76 @@ Bạn mở GM và chọn **Nhận Trang bị**.
 *Nhận trang bị*
 
 Sau khi nhận trang bị phù hợp và ưng nhất thì bạn nên mặc vào người nhé. Đừng trần truồng cưỡi ngựa chạy lông nhông 🤦‍♂️
+
+## Tối nay chơi gì?
+Sau khi hoàn thành hướng dẫn dành cho người mới chơi, bạn đã sẵn sàng để bôn tẩu giang hồ rồi. Do nhân vật đã ở cấp 200, nên đánh quái cầy level hay làm nhiệm vụ Dã Tẩu là thời cổ đại rồi. Phần này sẽ dành để nói về các tính năng / sự kiện đang có trong phiên bản Alpha. 
+
+### Săn boss Hoàng Kim
+Ở phiên bản Alpha, các bạn sẽ được sống lại với kỷ niệm săn boss Hoàng Kim và hồi hộp đến nghẹt thở mỗi khi nhìn thấy các vật phẩm quý giá rơi ra sau khi đánh boss.
+
+#### Tại sao nên săn boss Hoàng Kim?
+ - Boss Hoàng Kim sẽ rơi ra rất nhiều vật phẩm quý giá, đặc biệt là trang bị Hoàng Kim Môn Phái. Chắc hẳn ai cũng từng mơ ước được mặc một cây Hoàng Kim cho nhân vật của mình. Vì vậy hãy chăm chỉ lập team săn boss nhé.
+
+#### Thời gian săn boss?
+ - Boss Hoàng Kim sẽ xuất hiện vào phút 30 mỗi giờ. 
+ - Khi boss Hoàng Kim xuất hiện, sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
+
+#### Địa điểm xuất hiện boss?
+ - Boss Hoàng Kim sẽ xuất hiện tại 7 thành thị lớn, toạ độ của boss được ẩn đi giúp cho việc săn boss trở nên hấp dẫn hơn. Các bạn có thể tạo tổ nhóm và chia nhau tìm boss ở các thành thị, hãy nhanh chân vì các bang phái khác cũng đang cạnh tranh tìm boss với bạn.
+ 
+### Chiến trường Tống Kim
+Tống Kim giao tranh không thể thiếu các anh hùng hào kiệt được. Các đồng đạo có thể ra nhập bên Tống hoặc bên Kim.
+
+#### Tại sao nên đi Tống Kim?
+ - Đây là hoạt động mọi người có thể thể hiện khả năng PK nhóm của mình. Mục đích chính là cùng nhau tiêu diệt nguyên soái của phe địch.
+ - Ngoài ra, chiến trường Tống Kim còn lưu lại bảng xếp hạng top 10 các cao thủ PK nhiều nhất. Đây cũng là cách để thể hiện sức mạnh nhân vật bạn đang chơi, khiến giang hồ kính sợ.
+
+#### Thời gian báo danh Tống Kim?
+ - Chiến trường Tống Kim diễn ra vào phút 00 mỗi giờ. 
+ - Trước khi chiến trường bắt đầu 5 phút sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
+ - Mỗi trận Tống Kim sẽ diễn ra trong 30 phút.
+ 
+#### Làm thế nào để báo danh Tống Kim?
+ - Để gia nhập Tống Kim, mọi người về **Tiệm Tạp Hoá** và mua **Lệnh Bài Tống Kim** với giá 5000 lượng. Sau đó chuột phải vào **Lệnh Bài Tống Kim** và chọn phe mình muốn tham gia.
+ 
+### Sự kiện vượt ải
+Mỗi đội gồm 4 người có thể lập nhóm để cùng vượt ải. Có 28 ải cần vượt qua bằng việc tiêu diệt các NPC cường đạo.
+
+#### Tại sao nên đi vượt ải?
+ - Đây là một sự kiện để chơi theo nhóm vô cùng hấp dẫn.
+ - Đội nào hoàn thành toàn bộ nhiệm vụ Vượt Ải sẽ nhận được các vật phẩm vô cùng hấp dẫn. Team đang thêm tính năng trang bị Hoàng Kim vào phần thưởng vượt ải. 
+ 
+#### Thời gian báo danh vượt ải?
+ - Sự kiện vượt ải diễn vào vào phút 15 mỗi giờ.
+ - Trước khi sự kiện diễn ra 15 phút sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
+
+#### Làm thế nào để báo danh vượt ải?
+ - Để tham gia vượt ải, hãy đến gặp Nhiếp Thí Trần tại thất đại thành thị để báo danh.
+ - Yêu cầu để tham gia vượt ải là mỗi thành viên trong nhóm phải có một Sát Thủ Lệnh.
+ - Để lấy được Sát Thủ Lệnh, đồng đạo cần đến gặp Nhiếp Thí Trần và nhận nhiệm vụ Sát Thủ.
+
+### Sự kiện liên đấu
+
+Tại sự kiện liên đấu, các đồng đạo sẽ được ghép ngẫu nhiên để PK liên đấu. Ai thắng sẽ được cộng điểm PK liên đấu.
+Kết quả liên đấu sẽ được lưu giữ và các danh hiệu cũng như phần thưởng sẽ được dành cho các cao thủ đứng top Liên Đấu.
+
+#### Tại sao nên tham gia sự kiện liên đấu?
+ - Đây là lúc các đồng đạo thể hiện khả năng PK cá nhân của mình.  
+ - Ngoài ra, kết quả liên đấu sẽ được lưu giữ và các danh hiệu cũng như phần thưởng tương ứng sẽ được dành cho các cao thủ đứng top Liên Đấu.
+ 
+#### Thời gian báo danh liên đấu?
+ - Sự kiện diễn ra vào lúc 9pm hàng ngày giờ EST (Toronto) và kéo dài trong 1 tiếng.
+ - Trước khi sự kiện diễn ra 15 phút sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
+
+#### Làm thế nào để báo danh liên đấu?
+ - Để tham gia sự kiên liên đấu, mọi người đến gặp Sứ Giả Liên Đấu tại Tương Dương (193/194).
+ 
+
+### Sự kiện PK Biện Kinh
+
+Để tăng tính tương tác trong game giữa các đồng đạo, mỗi tối vào lúc **10pm giờ EST (Toronto)**, xin mời 500 anh em võ lâm tập trung ở cổng thành **Biện Kinh toạ độ 200/202** để phân tài cao thấp. 
+
+Sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
 
 ## Hướng dẫn khác
 Các lựa chọn khác trong GM:
