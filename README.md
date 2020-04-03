@@ -129,8 +129,6 @@ _Bạn nên cất hết item hiện có trong F4 vào rương chứa đồ để
 
 Bạn mở GM và chọn **Nhận Trang bị**.
 
-**Note:** Các trang bị xanh được cấp theo đúng ngũ hành của phái bạn đang theo.
-
 ![item1](/images/item1.png)
 
 *Nhận trang bị*
