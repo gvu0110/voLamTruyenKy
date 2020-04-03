@@ -10,7 +10,11 @@
   * [Ra nhập môn phái và nhận kỹ năng môn phái](#ra-nhập-môn-phái-và-nhận-kỹ-năng-môn-phái)
   * [Tăng điểm tiềm năng và điểm kỹ năng](#tăng-điểm-tiềm-năng-và-điểm-kỹ-năng)
   * [Nhận trang bị ngũ hành](#nhận-trang-bị-ngũ-hành)
-- [Tối nay chơi gì](#tối-nay-chơi-gì)  
+- [Tối nay chơi gì?](#tối-nay-chơi-gì?)  
+  * [Săn boss Hoàng Kim](#săn-boss-hoàng-kim)
+  * [Chiến trường Tống Kim](#chiến-trường-tống-kim)
+  * [Sự kiện vượt ải](#sự-kiện-vượt-ải)
+  * [
 - [Hướng dẫn khác](#hướng-dẫn-khác)
   * [Mở rộng rương chứa đồ](#mở-rộng-rương-chứa-đồ)
   * [Skill setup](#skill-setup)
@@ -133,20 +137,21 @@ Bạn mở GM và chọn **Nhận Trang bị**.
 Sau khi nhận trang bị phù hợp và ưng nhất thì bạn nên mặc vào người nhé. Đừng trần truồng cưỡi ngựa chạy lông nhông 🤦‍♂️
 
 ## Tối nay chơi gì?
-Sau khi hoàn thành hướng dẫn dành cho người mới chơi, bạn đã sẵn sàng để bôn tẩu giang hồ rồi. Do nhân vật đã ở cấp 200, nên đánh quái cầy level hay làm nhiệm vụ Dã Tẩu là thời cổ đại rồi. Phần này sẽ dành để nói về các tính năng / sự kiện đang có trong phiên bản Alpha. 
+Sau khi hoàn thành hướng dẫn dành cho người mới chơi, bạn đã sẵn sàng để bôn tẩu giang hồ rồi. Do nhân vật đã ở cấp 200, nên đánh quái cầy level hay làm nhiệm vụ Dã Tẩu là thời cổ đại rồi. Phần này sẽ dành để nói về các tính năng / sự kiện khác đang có trong phiên bản Alpha. 
 
 ### Săn boss Hoàng Kim
 Ở phiên bản Alpha, các bạn sẽ được sống lại với kỷ niệm săn boss Hoàng Kim và hồi hộp đến nghẹt thở mỗi khi nhìn thấy các vật phẩm quý giá rơi ra sau khi đánh boss.
 
 #### Tại sao nên săn boss Hoàng Kim?
- - Boss Hoàng Kim sẽ rơi ra rất nhiều vật phẩm quý giá, đặc biệt là trang bị Hoàng Kim Môn Phái. Chắc hẳn ai cũng từng mơ ước được mặc một cây Hoàng Kim cho nhân vật của mình. Vì vậy hãy chăm chỉ lập team săn boss nhé.
+ - Boss Hoàng Kim sẽ rơi ra rất nhiều vật phẩm quý giá, đặc biệt là trang bị **Hoàng Kim Môn Phái**. Chắc hẳn ai cũng từng mơ ước được mặc một cây Hoàng Kim cho nhân vật của mình. Vì vậy hãy chăm chỉ lập team săn boss nhé.
 
 #### Thời gian săn boss?
  - Boss Hoàng Kim sẽ xuất hiện vào phút 30 mỗi giờ. 
  - Khi boss Hoàng Kim xuất hiện, sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
 
 #### Địa điểm xuất hiện boss?
- - Boss Hoàng Kim sẽ xuất hiện tại 7 thành thị lớn, toạ độ của boss được ẩn đi giúp cho việc săn boss trở nên hấp dẫn hơn. Các bạn có thể tạo tổ nhóm và chia nhau tìm boss ở các thành thị, hãy nhanh chân vì các bang phái khác cũng đang cạnh tranh tìm boss với bạn.
+ - Boss Hoàng Kim sẽ xuất hiện tại 7 thành thị lớn, toạ độ của boss được ẩn đi giúp cho việc săn boss trở nên hấp dẫn hơn.
+ - Các bạn có thể tạo tổ nhóm và chia nhau tìm boss ở các thành thị, hãy nhanh chân vì các bang phái khác cũng đang cạnh tranh tìm boss với bạn.
  
 ### Chiến trường Tống Kim
 Tống Kim giao tranh không thể thiếu các anh hùng hào kiệt được. Các đồng đạo có thể ra nhập bên Tống hoặc bên Kim.
@@ -186,7 +191,8 @@ Kết quả liên đấu sẽ được lưu giữ và các danh hiệu cũng nh�
 
 #### Tại sao nên tham gia sự kiện liên đấu?
  - Đây là lúc các đồng đạo thể hiện khả năng PK cá nhân của mình.  
- - Ngoài ra, kết quả liên đấu sẽ được lưu giữ và các danh hiệu cũng như phần thưởng tương ứng sẽ được dành cho các cao thủ đứng top Liên Đấu.
+ - Ngoài ra, kết quả liên đấu sẽ được lưu giữ và các danh hiệu sẽ được dành cho các cao thủ đứng top Liên Đấu.
+ - Bạn có thể đổi điểm vinh dự liên đấu lấy các món vật phẩm quý giá tại Sứ Giả Liên Đấu.
  
 #### Thời gian báo danh liên đấu?
  - Sự kiện diễn ra vào lúc 9pm hàng ngày giờ EST (Toronto) và kéo dài trong 1 tiếng.
@@ -195,7 +201,7 @@ Kết quả liên đấu sẽ được lưu giữ và các danh hiệu cũng nh�
 #### Làm thế nào để báo danh liên đấu?
  - Để tham gia sự kiên liên đấu, mọi người đến gặp Sứ Giả Liên Đấu tại Tương Dương (193/194).
  
-
+ 
 ### Sự kiện PK Biện Kinh
 
 Để tăng tính tương tác trong game giữa các đồng đạo, mỗi tối vào lúc **10pm giờ EST (Toronto)**, xin mời 500 anh em võ lâm tập trung ở cổng thành **Biện Kinh toạ độ 200/202** để phân tài cao thấp. 
