@@ -18,6 +18,7 @@
   * [PK Biện Kinh](#pk-biện-kinh)
   * [Hoạt động phong trào](#hoat-dong-phong-trao)
 - [Hướng dẫn khác](#hướng-dẫn-khác)
+  * [Khiêu chiến PK Biện Kinh](#khieu-chien-pk-bien-kinh)
   * [Mở rộng rương chứa đồ](#mở-rộng-rương-chứa-đồ)
   * [Skill setup](#skill-setup)
 - [Các lỗi cài đặt thường gặp](#các-lỗi-cài-đặt-thường-gặp)
@@ -223,6 +224,9 @@ Chúng ta có thể tham gia chuỗi sự kiện cùng nhau mỗi tối như sau
 Các lựa chọn khác trong GM:
   - Shop: Bạn có thể mua máu, mana, thuốc giải độc tại đây hoặc đến tạp hóa các thành.
   - Chọn màu PK: Chọn các màu khác nhau để chia team PK, hoặc yolo "Một mình tao chấp hếtttttt".
+  
+### Khiêu chiến PK Biện Kinh
+
 
 ### Mở rộng rương chứa đồ
 Bạn cầm theo 2 KNB, phi tới NPC Thẩm Cửu ở bên ngoài huyện để mở rộng thêm một rương chứa đồ.
