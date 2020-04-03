@@ -14,7 +14,8 @@
   * [Săn boss Hoàng Kim](#săn-boss-hoàng-kim)
   * [Chiến trường Tống Kim](#chiến-trường-tống-kim)
   * [Sự kiện vượt ải](#sự-kiện-vượt-ải)
-  * [
+  * [Sự kiện liên đấu](#sự-kiện-liên-đấu)
+  * [PK Biện Kinh](#pk-biện-kinh)
 - [Hướng dẫn khác](#hướng-dẫn-khác)
   * [Mở rộng rương chứa đồ](#mở-rộng-rương-chứa-đồ)
   * [Skill setup](#skill-setup)
@@ -202,7 +203,7 @@ Kết quả liên đấu sẽ được lưu giữ và các danh hiệu cũng nh�
  - Để tham gia sự kiên liên đấu, mọi người đến gặp Sứ Giả Liên Đấu tại Tương Dương (193/194).
  
  
-### Sự kiện PK Biện Kinh
+### PK Biện Kinh
 
 Để tăng tính tương tác trong game giữa các đồng đạo, mỗi tối vào lúc **10pm giờ EST (Toronto)**, xin mời 500 anh em võ lâm tập trung ở cổng thành **Biện Kinh toạ độ 200/202** để phân tài cao thấp. 
 
