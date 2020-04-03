@@ -145,7 +145,7 @@ Sau khi hoàn thành hướng dẫn dành cho người mới chơi, bạn đã s
  - Boss Hoàng Kim sẽ rơi ra rất nhiều vật phẩm quý giá, đặc biệt là trang bị **Hoàng Kim Môn Phái**. Chắc hẳn ai cũng từng mơ ước được mặc một cây Hoàng Kim cho nhân vật của mình. Vì vậy hãy chăm chỉ lập team săn boss nhé.
 
 #### Thời gian săn boss?
- - Boss Hoàng Kim sẽ xuất hiện vào phút 30 mỗi giờ. 
+ - Boss Hoàng Kim sẽ xuất hiện vào **phút 30 mỗi giờ**. 
  - Khi boss Hoàng Kim xuất hiện, sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
 
 #### Địa điểm xuất hiện boss?
@@ -160,7 +160,7 @@ Tống Kim giao tranh không thể thiếu các anh hùng hào kiệt được. 
  - Ngoài ra, chiến trường Tống Kim còn lưu lại bảng xếp hạng top 10 các cao thủ PK nhiều nhất. Đây cũng là cách để thể hiện sức mạnh nhân vật bạn đang chơi, khiến giang hồ kính sợ.
 
 #### Thời gian báo danh Tống Kim?
- - Chiến trường Tống Kim diễn ra vào phút 00 mỗi giờ. 
+ - Chiến trường Tống Kim diễn ra vào **phút 00 mỗi giờ**. 
  - Trước khi chiến trường bắt đầu 5 phút sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
  - Mỗi trận Tống Kim sẽ diễn ra trong 30 phút.
  
@@ -172,16 +172,16 @@ Mỗi đội gồm 4 người có thể lập nhóm để cùng vượt ải. C�
 
 #### Tại sao nên đi vượt ải?
  - Đây là một sự kiện để chơi theo nhóm vô cùng hấp dẫn.
- - Đội nào hoàn thành toàn bộ nhiệm vụ Vượt Ải sẽ nhận được các vật phẩm vô cùng hấp dẫn. Team đang thêm tính năng trang bị Hoàng Kim vào phần thưởng vượt ải. 
+ - Đội nào hoàn thành toàn bộ nhiệm vụ vượt ải sẽ nhận được các vật phẩm vô cùng hấp dẫn. Team đang thêm tính năng trang bị Hoàng Kim vào phần thưởng vượt ải. 
  
 #### Thời gian báo danh vượt ải?
- - Sự kiện vượt ải diễn vào vào phút 10 mỗi giờ.
+ - Sự kiện vượt ải diễn vào vào **phút 10 mỗi giờ**.
  - Trước khi sự kiện diễn ra 10 phút sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
 
 #### Làm thế nào để báo danh vượt ải?
- - Để tham gia vượt ải, hãy đến gặp Nhiếp Thí Trần tại thất đại thành thị để báo danh.
- - Yêu cầu để tham gia vượt ải là mỗi thành viên trong nhóm phải có một Sát Thủ Lệnh.
- - Để lấy được Sát Thủ Lệnh, đồng đạo cần đến gặp Nhiếp Thí Trần và nhận nhiệm vụ Sát Thủ.
+ - Để tham gia vượt ải, hãy đến gặp **Nhiếp Thí Trần** tại thất đại thành thị để báo danh.
+ - Yêu cầu để tham gia vượt ải là mỗi thành viên trong nhóm phải có một **Sát Thủ Lệnh**.
+ - Để lấy được **Sát Thủ Lệnh**, đồng đạo cần đến gặp **Nhiếp Thí Trần** và nhận nhiệm vụ **Sát Thủ**.
 
 ### Sự kiện liên đấu
 
@@ -191,14 +191,14 @@ Kết quả liên đấu sẽ được lưu giữ và các danh hiệu cũng nh�
 #### Tại sao nên tham gia sự kiện liên đấu?
  - Đây là lúc các đồng đạo thể hiện khả năng PK cá nhân của mình.  
  - Ngoài ra, kết quả liên đấu sẽ được lưu giữ và các danh hiệu sẽ được dành cho các cao thủ đứng top Liên Đấu.
- - Bạn có thể đổi điểm vinh dự liên đấu lấy các món vật phẩm quý giá tại Sứ Giả Liên Đấu.
+ - Bạn có thể đổi điểm vinh dự liên đấu lấy các món vật phẩm quý giá tại **Sứ Giả Liên Đấu**.
  
 #### Thời gian báo danh liên đấu?
- - Sự kiện diễn ra vào lúc 9pm hàng ngày giờ EST (Toronto) và kéo dài trong 1 tiếng.
+ - Sự kiện diễn ra vào lúc **9pm giờ EST (Toronto)** và kéo dài trong 1 tiếng.
  - Trước khi sự kiện diễn ra 15 phút sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
 
 #### Làm thế nào để báo danh liên đấu?
- - Để tham gia sự kiên liên đấu, mọi người đến gặp Sứ Giả Liên Đấu tại Tương Dương (193/194).
+ - Để tham gia sự kiên liên đấu, mọi người đến gặp **Sứ Giả Liên Đấu tại Tương Dương (193/194)**.
  
  
 ### PK Biện Kinh
