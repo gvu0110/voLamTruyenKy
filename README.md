@@ -175,8 +175,8 @@ Mỗi đội gồm 4 người có thể lập nhóm để cùng vượt ải. C�
  - Đội nào hoàn thành toàn bộ nhiệm vụ Vượt Ải sẽ nhận được các vật phẩm vô cùng hấp dẫn. Team đang thêm tính năng trang bị Hoàng Kim vào phần thưởng vượt ải. 
  
 #### Thời gian báo danh vượt ải?
- - Sự kiện vượt ải diễn vào vào phút 15 mỗi giờ.
- - Trước khi sự kiện diễn ra 15 phút sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
+ - Sự kiện vượt ải diễn vào vào phút 05 mỗi giờ.
+ - Trước khi sự kiện diễn ra 05 phút sẽ có thông báo toàn server và thông báo trên kênh “Tất cả” để mọi người dễ dàng nhận biết.
 
 #### Làm thế nào để báo danh vượt ải?
  - Để tham gia vượt ải, hãy đến gặp Nhiếp Thí Trần tại thất đại thành thị để báo danh.
