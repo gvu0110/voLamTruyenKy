@@ -33,11 +33,19 @@ Sau khi tải xong, các bạn giải nén và chạy file `Game.exe` là chơi 
 Nếu có lỗi xảy ra các bạn vui lòng xem mục [Các lỗi cài đặt thường gặp](#các-lỗi-cài-đặt-thường-gặp)
 
 ## Hướng dẫn cài đặt game trên MacOS
+Vì game chỉ chạy trên hệ điều hành Windows nên để chơi được trên macOS, các bạn cần thiết lập một môi trường Windows ảo. Một trong những phần mềm hỗ trợ ảo hoá rất tốt trên macOS là VMWare Fusion.
+
 Các bạn tải VMWare Fusion ở link sau (kèm key):
+
 https://s3.ca-central-1.amazonaws.com/volambacmy.com/VMware-Fusion.zip
 
-Các bạn tải máy ảo Windows ở link sau (17G):
+Sau khi tải về, các bạn giải nén rồi cài đặt bình thường. Key của phần mềm mình cũng đã đính kèm trong file.
+
+Bước tiếp theo chúng ta cần tải máy ảo Windows có sẵn game bên trong. Lưu ý: máy ảo khá nặng (17GB) nên các bạn tranh thủ làm cốc cafe trong lúc chờ nhé!
+
 https://s3.ca-central-1.amazonaws.com/volambacmy.com/Windows_10_x64.zip
+
+Sau khi tải xong, các bạn giải nén rồi import máy ảo vào VMWare Fusion, khởi động là có thể chơi được game nhé. Bạn mở folder `voLamTruyenKy` ở ngay Desktop, chạy file `Game.exe` là có thể chơi được game nhé.
 
 ## Hướng dẫn tạo nhân vật
 Bạn chọn nơi bắt đầu là **Ba Lăng Huyện** để dễ dàng làm theo hướng dẫn nhé!
