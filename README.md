@@ -226,7 +226,7 @@ Các lựa chọn khác trong GM:
   - Chọn màu PK: Chọn các màu khác nhau để chia team PK, hoặc yolo "Một mình tao chấp hếtttttt".
   
 ### Khiêu chiến PK Biện Kinh
-
+Bạn nghĩ mình mạnh và muốn thách đấu 500 anh em đồng đạo? Đây chính là tính năng dành cho bạn. Tính năng này sẽ gửi thông báo khiêu chiến đến các đồng đạo võ lâm, giải quyết ân oán giang hồ tại cổng **Biện Kinh (200/202)**.
 
 ### Mở rộng rương chứa đồ
 Bạn cầm theo 2 KNB, phi tới NPC Thẩm Cửu ở bên ngoài huyện để mở rộng thêm một rương chứa đồ.
