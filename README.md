@@ -33,7 +33,11 @@ Sau khi tải xong, các bạn giải nén và chạy file `Game.exe` là chơi 
 Nếu có lỗi xảy ra các bạn vui lòng xem mục [Các lỗi cài đặt thường gặp](#các-lỗi-cài-đặt-thường-gặp)
 
 ## Hướng dẫn cài đặt game trên MacOS
-(updating)
+Các bạn tải VMWare Fusion ở link sau (kèm key):
+https://s3.ca-central-1.amazonaws.com/volambacmy.com/VMware-Fusion.zip
+
+Các bạn tải máy ảo Windows ở link sau (17G):
+https://s3.ca-central-1.amazonaws.com/volambacmy.com/Windows_10_x64.zip
 
 ## Hướng dẫn tạo nhân vật
 Bạn chọn nơi bắt đầu là **Ba Lăng Huyện** để dễ dàng làm theo hướng dẫn nhé!
