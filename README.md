@@ -26,7 +26,7 @@
 ## Hướng dẫn cài đặt game trên Windows
 Các bạn tải game ở link sau:
 
-[https://drive.google.com/file/d/1gSZUSwO560rMHUm83JOxopcDu-M_ZTzB/view?usp=sharing](https://drive.google.com/file/d/1gSZUSwO560rMHUm83JOxopcDu-M_ZTzB/view?usp=sharing)
+https://s3.ca-central-1.amazonaws.com/volambacmy.com/voLamTruyenKy.rar
 
 Sau khi tải xong, các bạn giải nén và chạy file `Game.exe` là chơi được game. Không cần cài đặt
 
