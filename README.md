@@ -10,7 +10,7 @@
   * [Ra nhập môn phái và nhận kỹ năng môn phái](#ra-nhập-môn-phái-và-nhận-kỹ-năng-môn-phái)
   * [Tăng điểm tiềm năng và điểm kỹ năng](#tăng-điểm-tiềm-năng-và-điểm-kỹ-năng)
   * [Nhận trang bị ngũ hành](#nhận-trang-bị-ngũ-hành)
-- [Tối nay chơi gì?](#tối-nay-chơi-gì?)  
+- [Tối nay chơi gì?](#tối-nay-chơi-gì)  
   * [Săn boss Hoàng Kim](#săn-boss-hoàng-kim)
   * [Chiến trường Tống Kim](#chiến-trường-tống-kim)
   * [Sự kiện vượt ải](#sự-kiện-vượt-ải)
